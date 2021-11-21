@@ -1,8 +1,21 @@
 # Flutter-E-commerce
-## testing
-https://user-images.githubusercontent.com/36932416/142766272-0a8797cb-11df-4ca1-ab95-45db4d28c9f3.mp4
+## testing Video
 
 
+Uploading Android Emulator - Nexus_6_API_28_5554 2021-11-21 16-11-02_1.mp4…
 
+## What I have been working here:
 
+    Developing apps using GetX framework.
+    MVVM Architectural.
+    Using RestAPi.
+    Animation.
+    cashing data with a SQflite package.
+    cashing data with GetStorage package.
+    Google Signup.
+    Release APK.
+    
+    
 
+## Full UI 
+https://www.uistore.design/items/lafyuu-ecommerce-ui-kit-for-figma/
