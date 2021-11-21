@@ -2,7 +2,9 @@
 ## testing Video
 
 
-Uploading Android Emulator - Nexus_6_API_28_5554 2021-11-21 16-11-02_1.mp4…
+
+    https://user-images.githubusercontent.com/36932416/142776802-d09f5952-5648-4034-8ab9-85b870603de3.mp4
+
 
 ## What I have been working here:
 
